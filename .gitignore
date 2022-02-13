@@ -29,3 +29,9 @@ Thumbs.db*
 /dist/
 /nbdist/
 /.nb-gradle/
+
+###TestAllure###
+/allure-results/
+
+###Config.properties###
+/src/main/resources/config.properties/
